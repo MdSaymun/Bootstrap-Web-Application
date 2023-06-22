@@ -7,7 +7,3 @@
 ### GitHublink
 
 [Live Preview](https://github.com/MdSaymun/Bootstrap-Web-Application)
-
-## Screenshots
-
-![App Screenshot](https://prnt.sc/C1ByJJDK_i-P)
