@@ -1,0 +1,19 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&family=Poppins:wght@400;500;600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.paragraph-area {
+  background-image: url("../images/bg-10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
